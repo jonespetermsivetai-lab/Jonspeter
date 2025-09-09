@@ -118,8 +118,8 @@
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <form>
-      <input type="text" placeholder="VIGNESH B" required>
-      <input type="email" placeholder="vigneshbsivetai@gmail.com" required>
+      <input type="text" placeholder="JONES PETER M" required>
+      <input type="email" placeholder="jonespeter.msivetai@gmail.com" required>
       <textarea rows="5" placeholder="9840348790"></textarea>
       <button type="submit">Send Message</button>
     </form>
@@ -127,7 +127,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 Student Portfolio by Vignesh  | All Rights Reserved</p>
+    <p>&copy; 2025 Student Portfolio by jonespeter  | All Rights Reserved</p>
   </footer>
 
   <!-- JavaScript -->
@@ -171,6 +171,3 @@
   </script>
 </body>
 </html>
-
-
-
