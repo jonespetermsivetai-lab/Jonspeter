@@ -120,7 +120,7 @@
     <form>
       <input type="text" placeholder="JONES PETER M" required>
       <input type="email" placeholder="jonespeter.msivetai@gmail.com" required>
-      <textarea rows="5" placeholder="9840348790"></textarea>
+      <textarea rows="5" placeholder="9566134783"></textarea>
       <button type="submit">Send Message</button>
     </form>
   </section>
